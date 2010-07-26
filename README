@@ -1,0 +1,5 @@
+Usage:
+
+$(".html_photoset").killPhotoset({
+	photoSize: 400
+});
