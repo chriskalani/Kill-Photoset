@@ -19,7 +19,7 @@
 		
 		return this.each(function(){
 		
-			$this = $(this);
+			var $this = $(this);
 			
 			$this.empty();
 			
